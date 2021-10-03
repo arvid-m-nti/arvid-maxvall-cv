@@ -1,0 +1,11 @@
+.smaller-image {
+    width: 200px;
+}
+.purple-border {
+    border-color:purple;
+    border-width: 3px;
+    border-style: solid;
+}
+.white-text {
+    color:white;
+}

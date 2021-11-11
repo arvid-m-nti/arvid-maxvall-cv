@@ -6,6 +6,10 @@
     border-width: 3px;
     border-style: solid;
 }
-.white-text {
+body {
+    background-color:darkblue;
+    color:white;
+}
+a {
     color:white;
 }
